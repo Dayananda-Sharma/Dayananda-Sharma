@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from Banglore <br><br>- 🔭 I’m currently studying MCA <br>- 📚 I'm currently learning java<br>- ⚡ In my free time Weekends</p>
+<p align="left">I'm ... from Banglore <br><br>- 🔭 I’m currently studying MCA <br>- 📚 Learning java<br>- ⚡ In my free time Weekends</p>
 
 ###
 

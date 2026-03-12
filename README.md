@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dayanand-Sharma and I'm MCA Student, from Banglore</h2>
+<h2 align="left">Hi 👋! I am  Dayanand-Sharma and I'm MCA Student, from Banglore</h2>
 
 ###
 

@@ -1,4 +1,4 @@
- <h2 align="left"> # Hi, I'm Dayananda Sharma
+ <h2 align="left"> Hi, I'm Dayananda Sharma
 
 💻 **Java Full Stack Developer** passionate about building scalable and user-friendly web applications.
 
@@ -54,5 +54,6 @@ Features:
 💼 LinkedIn: linkedin.com/in/dayananda-sharma-25943b37b
 🐙 GitHub: github.com/Dayananda-Sharma
 📧 Email: sharmadaya2172000@gmail.com
+</h2>
 
 

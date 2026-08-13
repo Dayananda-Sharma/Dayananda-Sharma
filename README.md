@@ -1,6 +1,6 @@
  <h2 align="left"> Hi, I'm Dayananda Sharma
 
-💻 **Java Full Stack Developer** passionate about building scalable and user-friendly web applications.
+**Java Full Stack Developer** passionate about building scalable and user-friendly web applications.
 
 ```yaml
 name: Dayananda Sharma

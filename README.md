@@ -1,4 +1,4 @@
- <h2 align="left"> Hi, I'm Dayananda Sharma  
+ <h2 align="left"> Hi, I'm Dayananda   
 
 **Java Full Stack Developer** passionate about building scalable and user-friendly web applications.
 

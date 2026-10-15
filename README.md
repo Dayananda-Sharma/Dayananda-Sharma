@@ -1,5 +1,5 @@
  <h2 align="left">Hii , I'm Dayananda 
-Sharma 
+
 **Java Full Stack Developer** passionate about building scalable and user-friendly web applications.
 
 ```yaml

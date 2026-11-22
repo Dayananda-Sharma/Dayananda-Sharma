@@ -1,4 +1,4 @@
- <h2 align="left">Hii , I'm Dayanand Sharma 
+ <h2 align="left">Hii , I'm Dayanand  
 
 **Java Full Stack Developer** passionate about building scalable and user-friendly web applications.
 

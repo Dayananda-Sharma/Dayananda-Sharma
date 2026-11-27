@@ -7,7 +7,7 @@ name: Dayananda Sharma
 role: Java Full Stack Developer
 currently_learning: Spring Boot & Advanced Java
 interests: Backend Development, REST APIs, Scalable Web Applications
-education: MCA   
+
 
 💻 Java Full Stack Developer building end-to-end web applications
 ☕ Strong knowledge of Core Java, OOPs & Java 8
